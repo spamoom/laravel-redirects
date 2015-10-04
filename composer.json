@@ -1,5 +1,6 @@
 {
     "name": "spamoom/laravel-redirects",
+    "description": "Extends the provided laravel redirector to provide withSuccesses and withNotices.",
     "autoload": {
         "psr-4": {
             "Spamoom\\": "src/"
