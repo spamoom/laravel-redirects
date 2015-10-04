@@ -1,6 +1,6 @@
 <?php
 
-namespace Spamoom;
+namespace Spamoom\LaravelRedirects;
 
 use Illuminate\Routing\Redirector as LaravelRedirector;
 

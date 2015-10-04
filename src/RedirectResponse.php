@@ -1,6 +1,6 @@
 <?php
 
-namespace Spamoom;
+namespace Spamoom\LaravelRedirects;
 
 use Illuminate\Support\ViewErrorBag;
 use Illuminate\Http\RedirectResponse as LaravelRedirectResponse;
